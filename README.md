@@ -1,21 +1,25 @@
-<b>Course Name :</b> Smartphone application development-assignment2
+### Smartphone application development
 
-**Learning Objective**:goal of the assignment is to apply implicit intent concepts and invoke web link & phone calls.
+## Assignment-2
 
-### Implicit intent app home page:
-![home](screenshots/MainPage.png)
+The goal of the assignment is to apply implicit intent concepts and invoke web link & phone calls.
 
-### Web page launched through implicit intent app: 
-![sjsu](screenshots/Sjsu.png)
+### app home page:
+![Screenshot 2024-03-17 205406](https://github.com/bkrish111/WebLinkAndPhoneCallApp/assets/147780244/6c975a13-dd42-424d-9f50-6117fe656649)
 
-### Launching a call through implicit intent app :
-![phone number](screenshots/phonenumber.png)
 
-### Call launched through implicit intent app :
-![ring](screenshots/ring.png)
+### Web page launched through the app: 
+![Screenshot 2024-03-17 205445](https://github.com/bkrish111/WebLinkAndPhoneCallApp/assets/147780244/02bbc010-4df2-4939-8eae-4c01050e7be9)
 
-### Implicit Intent app and invoke web link & phone calls:
-![implicit_intent.gif](screenshots/implicit_intent.gif)
+![Screenshot 2024-03-17 205503](https://github.com/bkrish111/WebLinkAndPhoneCallApp/assets/147780244/5ce237d7-2f22-4970-b972-9dab15a8e266)
+
+
+
+### Launching the call through the app :
+![Screenshot 2024-03-17 205538](https://github.com/bkrish111/WebLinkAndPhoneCallApp/assets/147780244/4eede1e1-b662-48b9-92d4-0d0fca651ea9)
+
+### Phone Call launched through the app :
+![Screenshot 2024-03-17 205556](https://github.com/bkrish111/WebLinkAndPhoneCallApp/assets/147780244/a36d57a6-ac65-4bf6-83f4-43344bfe22ba)
 
 
 
